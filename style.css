@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+  }
+
+  li {
+    display: inline;
+    padding: 8px;
+  }
+  a{
+    text-decoration:none;
+  }
+  body{
+    background-image: url("4b3adc10fc177a64385ee79bcc3fa36f.jpg");
+  }
+  p{
+    background-color: white;
+  }
